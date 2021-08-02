@@ -22,7 +22,7 @@ int main() {
     // int box2Height, box2Width, box2Length;
     int totalVolume;
     
-    // 4. Input the height, width, lenght of box1 and box2
+    // 4. Input the height, width, lenght of box1 and box2 
     cout << "Enter Box 1 Height : ";
     cin >> box1Height;
     cout << "Enter Box 1 Width : ";
