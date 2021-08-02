@@ -12,7 +12,7 @@ int main() {
    return 0;
 }
 
-// Do not change the print() function
+// Do not change the print() function 
 void print(int len, int wth) {
    cout << "Length : " << len 
         << ", Width  : " << wth << endl;
