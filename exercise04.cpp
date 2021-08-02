@@ -24,5 +24,5 @@ void input(int &len, int &wth)
   cout <<  "Length : ";
   cin >> len ;
   cout <<  "Width  : ";
-  cin >> len ;
-}
+  cin >> wth ;
+} 
